@@ -1,4 +1,3 @@
-# CodSoft-Credit-Card-Fraud-Detection
 # CodSoft - Credit Card Fraud Detection 💳🕵️‍♂️
 
 This project was completed as part of the **CodSoft Internship Program**. It uses a supervised machine learning approach (Random Forest Classifier) to detect fraudulent transactions in a highly imbalanced credit card dataset.
